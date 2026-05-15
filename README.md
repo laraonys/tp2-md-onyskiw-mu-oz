@@ -108,6 +108,7 @@ La variable objetivo de esta parte fue:
 - `drugType.csv` → dataset de drogas.
 - `README.md` → descripción general del proyecto.
 - `requirements.txt` → librerías necesarias para ejecutar los notebooks.
+- `consigna.pdf` → consigna del trabajo práctico.
 
 ## Herramientas utilizadas
 
